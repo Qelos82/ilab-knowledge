@@ -1,0 +1,11 @@
+created_by: MS
+domain: rpg
+seed_examples:
+- answer: The Old God C'Thun, an ancient entity whose pervasive evil had suffused Azeroth since time immemorial.
+  question: Who is behind the Ahn'Qiraj's walls?
+task_description: 'Details on instructlab community project'
+document:
+  repo: https://github.com/Qelos82/ilab-knowledge.git
+  commit: faf0591a588eb8882d1825d3d9f7ea8affb426c8
+  patterns:
+    - wow.md
